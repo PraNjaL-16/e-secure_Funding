@@ -5,4 +5,4 @@ using ethereum blockchain
 * clone the repo
 * run ````yarn install```` to install all the dependencies
 * run ````yarn dev```` to run application on local host
-* run ````yan build``` to create the build
+* run ````yan build```` to create the build
